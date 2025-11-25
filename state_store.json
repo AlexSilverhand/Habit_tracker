@@ -1,0 +1,28 @@
+{
+    "f3758cca-6616-42d1-b58b-8cadf28ac1de": {
+        "id": "f3758cca-6616-42d1-b58b-8cadf28ac1de",
+        "name": "Beber 2L de agua",
+        "description": "Tomar dos litros de agua diariamente",
+        "goal_per_week": 7,
+        "completions": [
+            "2025-11-24"
+        ],
+        "state": "CompletedToday"
+    },
+    "6cf9ef9e-c03f-4627-b045-82a3b0bc4249": {
+        "id": "6cf9ef9e-c03f-4627-b045-82a3b0bc4249",
+        "name": "Estudiar 3h",
+        "description": "Estudiar todos los d\u00edas por tres horas",
+        "goal_per_week": 7,
+        "completions": [],
+        "state": "Active"
+    },
+    "bc0e87d4-de75-48bf-8247-7e0a4d1d060a": {
+        "id": "bc0e87d4-de75-48bf-8247-7e0a4d1d060a",
+        "name": "Ejercitarnos 1h",
+        "description": "Hacer ejercicio 1 hora 4 veces a la semana",
+        "goal_per_week": 4,
+        "completions": [],
+        "state": "Inactive"
+    }
+}
